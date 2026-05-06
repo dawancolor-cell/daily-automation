@@ -1,1 +1,10 @@
-
+python-dotenv
+openai
+google-generativeai
+stability-sdk
+python-telegram-bot
+requests
+moviepy
+pillow
+numpy
+opencv-python
