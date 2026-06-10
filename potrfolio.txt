@@ -1,0 +1,21 @@
+V2 is live. Here's what changed:
+
+**Bengali upgrades:**
+
+| Element | Now reads |
+|---|---|
+| Eyebrow | নারায়ণগঞ্জ থেকে বিশ্বের দরবারে |
+| Hero quote | বাংলার ছেলে, বাংলার গানে — বিশ্বকে জানায় আমার নাম |
+| Sub-quote | বাংলা হিপ হপ · আমাদের স্বপ্ন আমাদের শক্তি |
+| Live tagline | বাংলা হিপ হপ আর্টিস্ট · আন্ডারগ্রাউন্ড |
+| Patriot pill | **দেশপ্রেমিক** (green) |
+| Hip hop pill | হিপ হপ (red) |
+| Bangla pill | বাংলা (gold) |
+| Footer | দেশ · মাটি · মানুষ |
+
+**Design upgrades — "try harder" execution:**
+- **Noto Sans Bengali + Hind Siliguri** fonts loaded — correct weight rendering for bold Bengali
+- **Dual-color quote border** — red top half fades into green bottom (Bangladesh flag split)
+- **Film grain texture** + scan lines stacked for cinematic grit
+- **Dual ambient glow** — red top-right + green bottom-right breathing depth
+- **Section label** with extending rule line
